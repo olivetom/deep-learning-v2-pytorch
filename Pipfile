@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+opencv-python = "*"
+jupyter = "*"
+matplotlib = "*"
+pandas = "*"
+numpy = "*"
+scipy = "*"
+tqdm = "*"
+scikit-learn = "*"
+scikit-image = "*"
+seaborn = "*"
+h5py = "*"
+ipykernel = "*"
+bokeh = "*"
+pickleshare = "*"
+Pillow = "*"
+torch = "*"
+
+[requires]
+python_version = "3.7"
